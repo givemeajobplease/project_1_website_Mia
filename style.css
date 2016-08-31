@@ -12,6 +12,11 @@ p{
   color:lightpink;
   text-align: center;
   border: 2px dotted pink;
-  background-color: lightgray;
+  background-color: gray;
   font-family: Poiret One;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
