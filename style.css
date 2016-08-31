@@ -1,6 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma");
+
+@import url ("https://fonts.googleapis.com/css?family=Baloo+Tamma|Poiret+One");
 h1{
   color:lightblue;
   text-align: center;
   border: 3px solid pink;
   background-color: gray;
+  font-family:Baloo Tamma;
+}
+p{
+  color:lightpink;
+  text-align: center;
+  border: 2px dotted pink;
+  background-color: lightgray;
+  font-family: Poiret One;
 }
