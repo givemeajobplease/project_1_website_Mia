@@ -25,3 +25,7 @@ ul{
   color: lightblue;
   border: 2px dotted lightblue;
 }
+#glitchedsentence {
+  color: lightpink;
+  background: grey;
+}
