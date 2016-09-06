@@ -26,6 +26,12 @@ ul{
   border: 2px dotted lightblue;
   text-align: left;
 }
+ol{
+  background-color: gray;
+  color: lightpink;
+  border: 2px dotted lightpink;
+  text-align: left;
+}
 #glitchedsentence {
   color: lightpink;
   background: grey;
