@@ -43,3 +43,13 @@ h4{
   text-align: center;
   color: red;
 }
+nav{
+  text-align: center;
+  background-color: lightpink;
+  border: 4px dotted gray;
+}
+.navigator{
+padding: 8;
+background-color: lightblue;
+border: 3px dotted grey;
+}
