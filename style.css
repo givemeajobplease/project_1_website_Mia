@@ -13,8 +13,11 @@ p{
   text-align: center;
   border: 2px dotted pink;
   background-color: gray;
-  background-position: center;
-  font-family:Poiret One;
+  display: inline-block;
+  font-family: 'Gabriela', serif;
+  color: #FFF;
+  border-radius: 10px;
+  padding: 0.5em 0.2em 0.8em 0.5em;
 }
 img {
     display: block;
@@ -26,12 +29,16 @@ ul{
   color: lightblue;
   border: 2px dotted lightblue;
   text-align: center;
+  font-family: monospace;
+  font-weight: bolder;
 }
 ol{
   background-color: gray;
   color: lightpink;
   border: 2px dotted lightpink;
   text-align: center;
+  font-family: monospace;
+  font-weight: bolder;
 }
 #glitchedsentence {
   color: lightpink;
