@@ -18,6 +18,7 @@ p{
   color: #FFF;
   border-radius: 10px;
   padding: 0.5em 0.2em 0.8em 0.5em;
+  margin: auto;
 }
 img {
     display: block;
