@@ -13,7 +13,8 @@ p{
   text-align: center;
   border: 2px dotted pink;
   background-color: gray;
-  font-family: Poiret One;
+  background-position: center;
+  font-family:Poiret One;
 }
 img {
     display: block;
