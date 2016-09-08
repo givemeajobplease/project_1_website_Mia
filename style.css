@@ -24,13 +24,13 @@ ul{
   background-color: gray;
   color: lightblue;
   border: 2px dotted lightblue;
-  text-align: left;
+  text-align: center;
 }
 ol{
   background-color: gray;
   color: lightpink;
   border: 2px dotted lightpink;
-  text-align: left;
+  text-align: center;
 }
 #glitchedsentence {
   color: lightpink;
