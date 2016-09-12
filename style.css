@@ -58,3 +58,9 @@ padding: 8;
 background-color: lightblue;
 border: 3px dotted grey;
 }
+a:hover {
+  text-decoration: none;
+  background-color: lightpink;
+  border: 3px solid gray;
+  font-size: 18px;
+}
