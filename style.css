@@ -60,8 +60,10 @@ border: 3px dotted grey;
 }
 a:hover {
   text-decoration: none;
-  background-color: lightpink;
-  border: 3px solid gray;
+  background-image:    url("https://a.disquscdn.com/get?url=http%3A%2F%2Fi.gifntext.com%2F37128-it-s-time-to-stop.gif&key=WJI128uwKpAax4PLSmPEyg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
   font-size: 18px;
 }
 
