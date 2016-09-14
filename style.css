@@ -66,6 +66,14 @@ a:hover {
     background-position: center center;
   font-size: 18px;
 }
+a:visited {
+  text-decoration: none;
+  background-image:    url("http://vignette3.wikia.nocookie.net/villains/images/0/07/I.m._meen_gif._image.gif/revision/latest?cb=20131204235220");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+  font-size: 18px;
+}
 
 I'm just gonna leave an anime link here
 https://www.youtube.com/watch?v=T-d0CMSL3mo
